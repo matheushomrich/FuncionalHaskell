@@ -1,0 +1,2 @@
+last2 ns = drop(length - 1) ns
+last21 nss = first reverse nss
